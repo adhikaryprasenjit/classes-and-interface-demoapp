@@ -1,0 +1,14 @@
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\bin\Debug\netcoreapp3.1\AbstractionDemo.exe
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\bin\Debug\netcoreapp3.1\AbstractionDemo.deps.json
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\bin\Debug\netcoreapp3.1\AbstractionDemo.runtimeconfig.json
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\bin\Debug\netcoreapp3.1\AbstractionDemo.runtimeconfig.dev.json
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\bin\Debug\netcoreapp3.1\AbstractionDemo.dll
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\bin\Debug\netcoreapp3.1\AbstractionDemo.pdb
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\obj\Debug\netcoreapp3.1\AbstractionDemo.csproj.AssemblyReference.cache
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\obj\Debug\netcoreapp3.1\AbstractionDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\obj\Debug\netcoreapp3.1\AbstractionDemo.AssemblyInfoInputs.cache
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\obj\Debug\netcoreapp3.1\AbstractionDemo.AssemblyInfo.cs
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\obj\Debug\netcoreapp3.1\AbstractionDemo.csproj.CoreCompileInputs.cache
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\obj\Debug\netcoreapp3.1\AbstractionDemo.dll
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\obj\Debug\netcoreapp3.1\AbstractionDemo.pdb
+E:\Projects\ConsoleApplications\AbstractionDemo\AbstractionDemo\obj\Debug\netcoreapp3.1\AbstractionDemo.genruntimeconfig.cache

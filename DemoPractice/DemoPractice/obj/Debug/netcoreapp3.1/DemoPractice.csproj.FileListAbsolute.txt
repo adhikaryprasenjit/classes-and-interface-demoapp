@@ -1,0 +1,14 @@
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.exe
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.deps.json
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.runtimeconfig.json
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.runtimeconfig.dev.json
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.dll
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.pdb
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.csproj.AssemblyReference.cache
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.AssemblyInfoInputs.cache
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.AssemblyInfo.cs
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.csproj.CoreCompileInputs.cache
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.dll
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.pdb
+E:\Projects\ConsoleApplications\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.genruntimeconfig.cache
